@@ -1,0 +1,71 @@
+
+.container-fluid {
+  /* background-color: #010449; */
+  background-color: rgb(55, 54, 54);
+}
+.msg-form {
+  background-color: black;
+  padding: 3%;
+}
+.fa{
+  margin-right: 10px;
+}
+.subBtn{
+  background-color: goldenrod;
+  margin-top: 3%;
+}
+.pad-icon {
+  padding-top: 50px;
+  padding-left: 20px;
+  /* border: 3px solid green; */
+  transform: scale(1.5);
+}
+.fab:hover {
+  transform: translateY(-5px);
+  /* background-color: #948b9b; */
+ 
+}
+.pad-icon a {
+  text-decoration: none;
+  margin-right: 40px;
+}
+
+.inp{
+  background-color: rgb(22, 21, 21);
+  color: aliceblue;
+}
+/* .input-group input:focus {
+  border: 1px solid blue;
+} */
+/* .pad-icon a:active {
+  height: 30px;
+  width: 30px;
+  background-color: #0080ff;
+  border-radius: 100%;
+} */
+.links {
+  padding-top: 50px;
+  width: 50%;
+}
+/* #bordering a:active {
+  border: 1px solid #0080ff;
+} */
+@media (min-width: 568px) {
+  .container-fluid {
+    margin: 1% 1%;
+    width: 96%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+@media (max-width: 567px) {
+  .container-fluid {
+    margin: 10px 10px;
+    width: 94%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .pad {
+    padding-top: 20px;
+  }
+}
