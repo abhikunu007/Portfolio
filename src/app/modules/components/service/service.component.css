@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 73vh;
+}
+
+.card{
+    margin: 5%;
+    background-color: rgb(55, 54, 54);
+    color: aliceblue;
+}
