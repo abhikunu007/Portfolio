@@ -1,0 +1,18 @@
+#navbarNavAltMarkup{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-brand{
+    color: antiquewhite;
+}
+
+.nav-link{
+    color: antiquewhite;
+    
+}
+
+.nav-link:active{
+    color: goldenrod;
+    
+}
