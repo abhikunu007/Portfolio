@@ -1,0 +1,39 @@
+.main{
+    /* height: 70vh; */
+    /* width: 50vw; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.carousel {
+    width: 25%;
+    /* border: 3px solid green; */
+}
+
+/* img{
+
+} */
+
+.first{
+    margin-top: 3%;
+    left: -30%;
+}
+
+.second{
+    right: -30%;
+}
+
+.third{
+    left: -30%;
+}
+
+.fourth{
+    right: -30%;
+}
+
+.fifth{
+    margin-bottom: 3%;
+    left: -30%;
+}
