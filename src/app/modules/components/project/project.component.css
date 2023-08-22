@@ -44,22 +44,24 @@
     background: transparent;
     border-radius: 7%;
     margin: 1%;
+    transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+background: linear-gradient(to right, rgb(219, 213, 32) 0%, rgb(219, 213, 32) 50%, rgb(219, 213, 32) 100%);
+color: #6575a2;
 }
 
 .button a {
-    color: white;
+    /* color: #034efd; */
     text-decoration: none;
     font-size:large;
     font-weight: bold;
 }
 
-/* .test{
-    border: 3px solid yellow;
-} */
+#name{
+    color: #034efd;  
+    font-size:xx-large;
+    font-weight: bolder;
+}
 
-/* #sh{
-    color: goldenrod;
-} */
 
 
 
