@@ -12,7 +12,7 @@
     
 }
 
-.nav-link:active{
+.nav-link:focus{
     color: goldenrod;
     
 }
