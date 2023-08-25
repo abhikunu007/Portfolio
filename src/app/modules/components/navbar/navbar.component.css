@@ -1,18 +1,18 @@
-#navbarNavAltMarkup{
-    display: flex;
-    justify-content: center;
+
+.navbar-nav{
+    padding-left: 40%;
 }
 
 .navbar-brand{
     color: antiquewhite;
 }
 
-.nav-link{
+.navbar-dark .navbar-nav .nav-link{
     color: antiquewhite;
     
 }
 
-.nav-link:focus{
+.navbar-dark .navbar-nav .nav-link:focus{
     color: goldenrod;
     
 }
