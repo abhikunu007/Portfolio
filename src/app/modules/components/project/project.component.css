@@ -42,11 +42,14 @@
 
 .button{
     background: transparent;
-    border-radius: 7%;
+    border-radius: 10px;
     margin: 1%;
-    transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
-background: linear-gradient(to right, rgb(219, 213, 32) 0%, rgb(219, 213, 32) 50%, rgb(219, 213, 32) 100%);
-color: #6575a2;
+    /* transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+background: linear-gradient(to right, rgb(219, 213, 32) 0%, rgb(219, 213, 32) 50%, rgb(219, 213, 32) 100%); */
+    /* background-color: #FBC403; */
+    background-color: #301B3F;
+    text-decoration: none;
+/* color: #6575a2; */
 }
 
 .button a {
@@ -57,9 +60,12 @@ color: #6575a2;
 }
 
 #name{
-    color: #034efd;  
-    font-size:xx-large;
-    font-weight: bolder;
+    /* color: #0E2954;   */
+    /* color: #7D0633;   */
+    background-color: #301B3F;
+    border-radius: 10px;
+    /* font-size:xx-large; */
+    /* font-weight: bolder; */
 }
 
 
